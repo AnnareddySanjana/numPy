@@ -1,0 +1,4 @@
+import numpy as np
+
+arange_array = np.arange(1,50,5)
+print(arange_array)
