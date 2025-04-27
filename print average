@@ -1,0 +1,5 @@
+import numpy as np
+
+tempt = [2,3,4,5,5]
+average = np.mean(tempt)
+print(average)
