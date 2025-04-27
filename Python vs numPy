@@ -1,0 +1,6 @@
+pythonlist=[1,2,3,4,5]
+print(pythonlist)
+
+import numpy as np
+numpyarray=np.array([5,4,3,2,1])
+print(numpyarray)
